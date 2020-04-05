@@ -1,0 +1,6 @@
+framework module Pods_professionalMenu {
+  umbrella header "Pods-professionalMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
